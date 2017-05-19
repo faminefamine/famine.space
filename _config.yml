@@ -1,0 +1,11 @@
+title: ғaмιne
+email: famine@random.sh
+description: "famine's space"
+baseurl: ""
+url: "https://famine.space"
+
+# Build settings
+markdown: kramdown
+
+permalink: "/:year/:month/:day/:title.html"
+
